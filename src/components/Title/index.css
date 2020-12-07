@@ -1,7 +1,7 @@
-.grayColor {
-  color: white;
+:local(.grayColor) {
+  color: gray;
 }
 
-.redColor {
+:local(.redColor) {
   color: red;
 }
